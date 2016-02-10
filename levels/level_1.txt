@@ -1,0 +1,12 @@
+300 300 
+Star 50 50
+Star 550 50
+Star 50 550
+Star 550 550
+AnchorMonster 200 200 50 225
+AnchorMonster 300 200 10 270
+AnchorMonster 400 200 50 315 
+AnchorMonster 200 400 50 135
+AnchorMonster 300 400 10 90
+AnchorMonster 400 400 50 45
+

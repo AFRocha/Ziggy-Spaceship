@@ -1,0 +1,25 @@
+500 500 
+BrownianMonster 50 50 
+BrownianMonster 100 50 
+BrownianMonster 150 50 
+BrownianMonster 200 50 
+BrownianMonster 250 50 
+BrownianMonster 300 50 
+BrownianMonster 300 100 
+BrownianMonster 300 150 
+BrownianMonster 300 200 
+BrownianMonster 300 250
+BrownianMonster 300 300 
+BrownianMonster 300 300 
+BrownianMonster 250 300
+BrownianMonster 200 300
+BrownianMonster 150 300 
+BrownianMonster 100 300 
+BrownianMonster 50 300 
+BrownianMonster 50 250 
+BrownianMonster 50 200 
+BrownianMonster 50 150 
+BrownianMonster 50 100 
+Star 150 150 
+Star 450 450
+

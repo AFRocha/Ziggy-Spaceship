@@ -1,0 +1,13 @@
+
+# Initial position for Ziggy
+250 300 
+# Star x y
+Star 100 100
+# AnchorMonster x y steps direction
+AnchorMonster 50 50 10 45
+# BombMonster x y speed direction
+BombMonster 300 50 10 45
+# BrownianMonster x y
+BrownianMonster 500 400 
+# ChaseMonster x y speed
+ChaseMonster 50 100 3

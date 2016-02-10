@@ -1,0 +1,10 @@
+300 300 
+Star 50 50
+Star 550 50
+Star 50 550
+Star 550 550
+BombMonster   100 200 10 180
+BombMonster   500 200 1 0
+BombMonster   200 500 1 270
+BombMonster   200 100 10  90
+BombMonster   100 50 1 30

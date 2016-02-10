@@ -1,0 +1,28 @@
+500 500 
+ChaseMonster 50 50 1 
+ChaseMonster 100 50 1
+ChaseMonster 150 50 1
+ChaseMonster 200 50 1
+ChaseMonster 250 50 1
+ChaseMonster 300 50 5
+ChaseMonster 300 100 1
+ChaseMonster 300 150 1
+ChaseMonster 300 200 1
+ChaseMonster 300 250 5
+ChaseMonster 300 300 1
+ChaseMonster 300 300 1
+ChaseMonster 250 300 5
+ChaseMonster 200 300 1
+ChaseMonster 150 300 1
+ChaseMonster 100 300 10
+ChaseMonster 50 300 1
+ChaseMonster 50 250 1
+ChaseMonster 50 200 1
+ChaseMonster 50 150 1
+ChaseMonster 50 100 1
+Star 150 150 
+Star 450 450
+
+
+
+

@@ -1,0 +1,18 @@
+300 300 
+AnchorMonster 100 300 100 0
+AnchorMonster 500 300 100 180
+AnchorMonster 300 100 100 90
+AnchorMonster 300 500 100 270
+Star 50 50
+Star 550 50
+Star 50 550
+Star 550 550
+ChaseMonster 100 100 1
+ChaseMonster 500 100 1
+ChaseMonster 100 500 1
+ChaseMonster 500 500 1
+BombMonster 100 50 10 0 
+BombMonster 500 550 10 180
+BombMonster 550 500 10 90
+BombMonster 50 500 10 270
+

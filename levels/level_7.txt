@@ -1,0 +1,26 @@
+500 500 
+AnchorMonster 50 50 0 0
+AnchorMonster 100 50 0 0
+AnchorMonster 150 50 0 0
+AnchorMonster 200 50 0 0
+AnchorMonster 250 50 0 0
+AnchorMonster 300 50 0 0
+AnchorMonster 300 100 0 0
+AnchorMonster 300 150 0 0
+AnchorMonster 300 200 0 0
+AnchorMonster 300 250 0 0
+AnchorMonster 300 300 0 0
+AnchorMonster 300 300 0 0
+AnchorMonster 250 300 0 0
+AnchorMonster 200 300 0 0
+AnchorMonster 150 300 0 0
+AnchorMonster 100 300 0 0
+AnchorMonster 50 300 0 0
+AnchorMonster 50 250 0 0
+AnchorMonster 50 200 0 0
+AnchorMonster 50 150 0 0
+AnchorMonster 50 100 0 0
+Star 150 150
+Star 450 450
+BrownianMonster 100 200
+ChaseMonster 150 200 10

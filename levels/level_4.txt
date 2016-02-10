@@ -1,0 +1,11 @@
+300 300 
+Star 50 50
+Star 550 50
+Star 50 550
+Star 550 550
+Star 300 50
+Star 300 550
+Star 50  300
+Star 550 300
+BrownianMonster 100 300
+BrownianMonster 500 300
